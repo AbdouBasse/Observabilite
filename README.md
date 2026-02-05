@@ -33,7 +33,7 @@ Contenu important
 - grafana/provisioning/ : datasource + dashboard provisioning
 - runbook.md : playbook d'alerte simple
 
-Prochaines étapes (je peux t'aider)
+Prochaines étapes 
 - Importer/améliorer le dashboard Grafana (j’ai ajouté un dashboard de base)
 - Ajouter des scénarios de test d’alerte automatisés
 - Versionner et créer issues GitHub pour milestones
