@@ -1,0 +1,10 @@
+global:
+  resolve_timeout: 5m
+
+route:
+  receiver: 'default'
+receivers:
+  - name: 'default'
+    # For now Alertmanager web UI will show alerts.
+    # To integrate e.g. Slack/email, add a webhook/Slack receiver here.
+    webhook_configs: []
