@@ -1,4 +1,4 @@
-# Observabilite
+
 # Observabilité - App Node.js (Projet SRE junior)
 
 But : mettre en place une application instrumentée et une stack d'observabilité (Prometheus, Grafana, Alertmanager) via Docker Compose. Objectif d'apprentissage : instrumentation, métriques, dashboards, alerting et runbook.
